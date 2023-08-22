@@ -1,0 +1,7 @@
+* [Home](/README.md)
+* [Installation](/installation.md)
+* [Usage](/usage.md)
+* [Updating](/updating.md)
+* [Development](/development.md)
+* [Tips](/tips.md)
+* [FAQ](/faq.md)
